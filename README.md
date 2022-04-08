@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rishijadaun
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on wordpress theme development
+- 💞️ I’m looking to collaborate on wordpress theme & Plugin development
 - 📫 How to reach me whatsapp 919711425615
 
 <!---
