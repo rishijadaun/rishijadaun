@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rishijadaun
+- 👋 Hi, I’m @Rishikesh Singh
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on wordpress theme & Plugin development
